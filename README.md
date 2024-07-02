@@ -10,5 +10,4 @@ I've created a frontend clone of SemiHyphen using React.js, Node.js, and TypeScr
   3) Run `npm run dev` to view project in browser
   
 =======
-# Frontend-clone
-Frontend clone using Next.js, React.js, and TypeScript, with a focus on responsiveness and interactivity
+
